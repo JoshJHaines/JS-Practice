@@ -1,5 +1,6 @@
+// declare variable
 let greeting = "Hello World";
+// reassign variable
+greeting = "Sup dude";
+//print variable
 console.log(greeting);
-
-let salutation = "Bye World";
-console.log(salutation);
