@@ -4,3 +4,8 @@ let greeting = "Hello World";
 greeting = "Sup dude";
 //print variable
 console.log(greeting);
+
+//reassigning again
+greeting = "Hey sailor!!!";
+//print variable
+console.log(greeting);
